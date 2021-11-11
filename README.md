@@ -12,7 +12,7 @@ Em seguida rodar o comando para inicar o json server
 
 ### `json-server --watch ./src/services/db.json --port 3333 --delay 1500`
 
-Utilizar o comando para iniciar a aplicação. Para funcionar corretamente é necessário que o json-server esteja ligado
+Em outro terminal, utilizar o comando para iniciar a aplicação. Para funcionar corretamente é necessário que o json-server esteja ligado
 
 ### `yarn start`
 
