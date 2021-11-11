@@ -14,7 +14,7 @@ test('renders dev component', () => {
         />
     );
 
-    const nascimento = screen.getByText('1999-05-17');
+    const nascimento = screen.getByText('17/05/1999');
     const hobby = screen.getByText('Programar React apps');
     const nome = screen.getByText('Vinícius Albuquerque');
     const sexo = screen.getByText('Masculino');
