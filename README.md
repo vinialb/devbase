@@ -8,6 +8,10 @@ No diretório do projeto utilizar o comando para atualizar a node_modules
 
 ### `yarn install`
 
+Rodar o comando para instalar o json server
+
+### `npm install -g json-server`
+
 Em seguida rodar o comando para inicar o json server
 
 ### `json-server --watch ./src/services/db.json --port 3333 --delay 1500`
