@@ -24,4 +24,4 @@ Para rodar os testes utilizar o comando
 
 ## Usage
 
-Entre na url [localhost.com:3000](http://localhost.com:3000) para rodar a aplicação
+Entre na url [localhost.com:3000](http://localhost.com:3000) para acessar a aplicação
