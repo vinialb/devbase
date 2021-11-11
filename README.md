@@ -21,3 +21,7 @@ Utilizar o comando para iniciar a aplicação. Para funcionar corretamente é ne
 Para rodar os testes utilizar o comando 
 
 ### yarn test
+
+## Usage
+
+Entre na url [localhost.com:3000](http://localhost.com:3000) para rodar a aplicação
